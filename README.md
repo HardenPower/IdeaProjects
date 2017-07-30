@@ -1,4 +1,4 @@
-# IdeaProject
+# IdeaProjects
 Learning and working. TestProjects
 >git init
 >git add .
